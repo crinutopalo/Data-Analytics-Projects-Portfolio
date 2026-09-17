@@ -122,10 +122,10 @@ Product category, by comparison, is a secondary factor and shouldn't be a primar
 
 ## Files
 
-- `sql/01_review_score_distribution.sql`
-- `sql/02_payment_method_vs_review.sql`
-- `sql/03_order_status_breakdown.sql`
-- `sql/04_avg_review_score_by_delivery_time.sql`
-- `sql/05_category_ranking_filtered.sql`
-- `images/` — chart exports referenced above
+- [`sql queries/01_review_score_distribution.sql`](sql%20queries/01_review_score_distribution.sql)
+- [`sql queries/02_payment_method_vs_review.sql`](sql%20queries/02_payment_method_vs_review.sql)
+- [`sql queries/03_order_status_breakdown.sql`](sql%20queries/03_order_status_breakdown.sql)
+- [`sql queries/04_avg_review_score_by_delivery_time.sql`](sql%20queries/04_avg_review_score_by_delivery_time.sql)
+- [`sql queries/05_category_ranking_filtered.sql`](sql%20queries/05_category_ranking_filtered.sql)
+- [`images/`](images/) — chart exports referenced above
 - **Raw data:** not included in this repo due to file size — download directly from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
