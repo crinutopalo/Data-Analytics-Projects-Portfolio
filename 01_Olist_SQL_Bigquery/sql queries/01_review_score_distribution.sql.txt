@@ -1,0 +1,4 @@
+SELECT review_score, COUNT(*) AS number_of_reviews
+FROM `olist.order_reviews`
+GROUP BY review_score
+ORDER BY review_score DESC
