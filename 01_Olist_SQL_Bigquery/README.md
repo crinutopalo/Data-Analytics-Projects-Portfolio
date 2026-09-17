@@ -34,7 +34,7 @@ What is behind negative customer reviews on Olist — delivery time, product cat
 Most of the reviews are 5-star and 4 star, but there is a second spike at 1-star, which brings the question : What makes the customer very unhappy about the platform?
 
 ![Review score distribution](images/01_review_score_distribution.png)
-[`sql/01_review_score_distribution.sql`](sql/01_review_score_distribution.sql)
+[`sql queries/01_review_score_distribution.sql`](sql%20queries/01_review_score_distribution.sql)
 
 **2. Payment method vs. review score - no link**
 
