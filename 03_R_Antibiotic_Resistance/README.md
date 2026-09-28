@@ -1,6 +1,6 @@
 # The use and bacterial resistance of antibiotics in the European Union
 
-Do EU nations that use higher levels of third-generation cephalosporins also have more *E. coli* resistant to these antibiotics?
+## Do EU nations that use higher levels of third-generation cephalosporins also have more *E. coli* resistant to these antibiotics?
 
 I was interested to see whether countries that use more of these antibiotics also have higher resistance. It seems reasonable to expect a connection, since antibiotics can remove bacteria that are sensitive to them, while resistant bacteria survive. The survivors can then reproduce and spread.
 
