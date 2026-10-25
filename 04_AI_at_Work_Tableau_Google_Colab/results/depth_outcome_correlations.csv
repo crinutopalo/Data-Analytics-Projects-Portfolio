@@ -1,0 +1,37 @@
+adoption,outcome,sample,n,rho,p_raw,family,p_holm,significant_after_holm
+Claude: work share,Time saved (Ipsos),All 31 countries,31,0.42194436672196384,0.01806156683915331,18 depth/outcome tests within sample,0.1625541015523798,False
+Claude: work share,Daily stress (Gallup),All 31 countries,31,-0.026868741697314794,0.885913605609215,18 depth/outcome tests within sample,1.0,False
+Claude: work share,Output per hour (ILO),All 31 countries,31,-0.34959677419354845,0.053878797610226715,18 depth/outcome tests within sample,0.4310303808818137,False
+Claude: automation share,Time saved (Ipsos),All 31 countries,31,0.5661119775022023,0.0009015744496560552,18 depth/outcome tests within sample,0.010382766336755849,True
+Claude: automation share,Daily stress (Gallup),All 31 countries,31,-0.11768887220530345,0.5283455434071586,18 depth/outcome tests within sample,1.0,False
+Claude: automation share,Output per hour (ILO),All 31 countries,31,-0.6551063648576271,6.353899136777299e-05,18 depth/outcome tests within sample,0.0008260068877810489,True
+Claude: autonomy,Time saved (Ipsos),All 31 countries,31,0.8028133757498715,5.520290019860277e-08,18 depth/outcome tests within sample,8.832464031776444e-07,True
+Claude: autonomy,Daily stress (Gallup),All 31 countries,31,-0.11921404799265822,0.5229768258730715,18 depth/outcome tests within sample,1.0,False
+Claude: autonomy,Output per hour (ILO),All 31 countries,31,-0.7888435322338277,1.3518317696284456e-07,18 depth/outcome tests within sample,2.0277476544426683e-06,True
+Claude: est. task time saved,Time saved (Ipsos),All 31 countries,31,0.897539403399971,7.897028271715456e-12,18 depth/outcome tests within sample,1.421465088908782e-10,True
+Claude: est. task time saved,Daily stress (Gallup),All 31 countries,31,-0.18747513003840696,0.3125369810269723,18 depth/outcome tests within sample,1.0,False
+Claude: est. task time saved,Output per hour (ILO),All 31 countries,31,-0.8201612903225807,1.6364893820288296e-08,18 depth/outcome tests within sample,2.78203194944901e-07,True
+ChatGPT: work share,Time saved (Ipsos),All 31 countries,31,0.5290440123860951,0.0022130829409382573,18 depth/outcome tests within sample,0.022130829409382574,True
+ChatGPT: work share,Daily stress (Gallup),All 31 countries,31,0.08929311150536193,0.6328718464136588,18 depth/outcome tests within sample,1.0,False
+ChatGPT: work share,Output per hour (ILO),All 31 countries,31,-0.27983870967741936,0.1273351173690164,18 depth/outcome tests within sample,0.8913458215831148,False
+ChatGPT: doing share of work,Time saved (Ipsos),All 31 countries,31,0.682840717688054,2.3119617663834762e-05,18 depth/outcome tests within sample,0.0003236746472936867,True
+ChatGPT: doing share of work,Daily stress (Gallup),All 31 countries,31,-0.10831581099864562,0.5619114483960784,18 depth/outcome tests within sample,1.0,False
+ChatGPT: doing share of work,Output per hour (ILO),All 31 countries,31,-0.5677120356568088,0.0008652305280629874,18 depth/outcome tests within sample,0.010382766336755849,True
+Claude: work share,Time saved (Ipsos),General population only (17),17,0.6445683122019384,0.005218142190689235,18 depth/outcome tests within sample,0.08349027505102775,False
+Claude: work share,Daily stress (Gallup),General population only (17),17,0.2763789730485896,0.2828969024934794,18 depth/outcome tests within sample,1.0,False
+Claude: work share,Output per hour (ILO),General population only (17),17,-0.5710784313725491,0.016646381649637165,18 depth/outcome tests within sample,0.24969572474455748,False
+Claude: automation share,Time saved (Ipsos),General population only (17),17,0.3015972791847468,0.2394171996932588,18 depth/outcome tests within sample,1.0,False
+Claude: automation share,Daily stress (Gallup),General population only (17),17,0.07716196392887874,0.7684885410342269,18 depth/outcome tests within sample,1.0,False
+Claude: automation share,Output per hour (ILO),General population only (17),17,-0.40220731042356994,0.1094923530251942,18 depth/outcome tests within sample,1.0,False
+Claude: autonomy,Time saved (Ipsos),General population only (17),17,0.4227492960300425,0.09091078772817994,18 depth/outcome tests within sample,1.0,False
+Claude: autonomy,Daily stress (Gallup),General population only (17),17,0.2701863354037268,0.294260468192692,18 depth/outcome tests within sample,1.0,False
+Claude: autonomy,Output per hour (ILO),General population only (17),17,-0.38495642674624986,0.127052518987117,18 depth/outcome tests within sample,1.0,False
+Claude: est. task time saved,Time saved (Ipsos),General population only (17),17,0.8041757037947994,9.984322179748522e-05,18 depth/outcome tests within sample,0.0017971779923547338,True
+Claude: est. task time saved,Daily stress (Gallup),General population only (17),17,0.1739706928564783,0.5042712802458873,18 depth/outcome tests within sample,1.0,False
+Claude: est. task time saved,Output per hour (ILO),General population only (17),17,-0.5049019607843138,0.038721048878706255,18 depth/outcome tests within sample,0.5420946843018876,False
+ChatGPT: work share,Time saved (Ipsos),General population only (17),17,0.35727500733478873,0.15917364632433703,18 depth/outcome tests within sample,1.0,False
+ChatGPT: work share,Daily stress (Gallup),General population only (17),17,0.7143902919425598,0.0012730279196936588,18 depth/outcome tests within sample,0.0216414746347922,True
+ChatGPT: work share,Output per hour (ILO),General population only (17),17,0.004901960784313726,0.9851029592703197,18 depth/outcome tests within sample,1.0,False
+ChatGPT: doing share of work,Time saved (Ipsos),General population only (17),17,0.4738783931343047,0.05465457400516097,18 depth/outcome tests within sample,0.7105094620670926,False
+ChatGPT: doing share of work,Daily stress (Gallup),General population only (17),17,0.3323090258933065,0.19250898718266413,18 depth/outcome tests within sample,1.0,False
+ChatGPT: doing share of work,Output per hour (ILO),General population only (17),17,0.21595108280414324,0.4051504347690778,18 depth/outcome tests within sample,1.0,False

@@ -1,0 +1,9 @@
+sample,n,metric,mean_pct
+All 31 countries,31,Trust without checking,30.516129032258064
+All 31 countries,31,Reported time saving,59.67741935483871
+All 31 countries,31,Claude automation,47.72999999999999
+All 31 countries,31,ChatGPT doing,45.54301075268817
+General population only (17),17,Trust without checking,23.823529411764707
+General population only (17),17,Reported time saving,50.35294117647059
+General population only (17),17,Claude automation,46.24352941176471
+General population only (17),17,ChatGPT doing,42.89215686274509

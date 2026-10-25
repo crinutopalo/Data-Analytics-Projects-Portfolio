@@ -1,0 +1,25 @@
+split_by,sample,group,n_countries,measure,median
+Claude: estimated task time saved,All 31 countries,Delegate more,16,Workers who say AI saved them time (Ipsos),70.0
+Claude: estimated task time saved,All 31 countries,Delegate more,16,Trust AI without checking (Ipsos),37.5
+Claude: estimated task time saved,All 31 countries,Delegate more,16,Claude use per person (index),1.005
+Claude: estimated task time saved,All 31 countries,Delegate less,15,Workers who say AI saved them time (Ipsos),48.0
+Claude: estimated task time saved,All 31 countries,Delegate less,15,Trust AI without checking (Ipsos),21.0
+Claude: estimated task time saved,All 31 countries,Delegate less,15,Claude use per person (index),3.35
+ChatGPT: doing share of work,All 31 countries,Delegate more,16,Workers who say AI saved them time (Ipsos),70.0
+ChatGPT: doing share of work,All 31 countries,Delegate more,16,Trust AI without checking (Ipsos),36.5
+ChatGPT: doing share of work,All 31 countries,Delegate more,16,Claude use per person (index),1.115
+ChatGPT: doing share of work,All 31 countries,Delegate less,15,Workers who say AI saved them time (Ipsos),52.0
+ChatGPT: doing share of work,All 31 countries,Delegate less,15,Trust AI without checking (Ipsos),25.0
+ChatGPT: doing share of work,All 31 countries,Delegate less,15,Claude use per person (index),2.98
+Claude: estimated task time saved,General population only (17),Delegate more,9,Workers who say AI saved them time (Ipsos),56.0
+Claude: estimated task time saved,General population only (17),Delegate more,9,Trust AI without checking (Ipsos),27.0
+Claude: estimated task time saved,General population only (17),Delegate more,9,Claude use per person (index),2.69
+Claude: estimated task time saved,General population only (17),Delegate less,8,Workers who say AI saved them time (Ipsos),45.5
+Claude: estimated task time saved,General population only (17),Delegate less,8,Trust AI without checking (Ipsos),20.5
+Claude: estimated task time saved,General population only (17),Delegate less,8,Claude use per person (index),3.575
+ChatGPT: doing share of work,General population only (17),Delegate more,9,Workers who say AI saved them time (Ipsos),56.0
+ChatGPT: doing share of work,General population only (17),Delegate more,9,Trust AI without checking (Ipsos),23.0
+ChatGPT: doing share of work,General population only (17),Delegate more,9,Claude use per person (index),3.8
+ChatGPT: doing share of work,General population only (17),Delegate less,8,Workers who say AI saved them time (Ipsos),44.5
+ChatGPT: doing share of work,General population only (17),Delegate less,8,Trust AI without checking (Ipsos),20.5
+ChatGPT: doing share of work,General population only (17),Delegate less,8,Claude use per person (index),3.165

@@ -1,0 +1,5 @@
+sample,group,n,threshold_pct,time_saved_median_pct,trust_median_pct
+All 31 countries,Higher estimate,16,85.17453798767967,70.0,37.5
+All 31 countries,Lower estimate,15,85.17453798767967,48.0,21.0
+General population only (17),Higher estimate,9,84.05373831775701,56.0,27.0
+General population only (17),Lower estimate,8,84.05373831775701,45.5,20.5

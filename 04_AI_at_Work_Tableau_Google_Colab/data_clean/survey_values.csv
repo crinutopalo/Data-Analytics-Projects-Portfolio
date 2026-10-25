@@ -1,0 +1,32 @@
+country,iso3,ipsos_trust_pct,ipsos_time_saved_pct,gallup_stress_2025,ipsos_representative
+Australia,AUS,21,57,50,True
+New Zealand,NZL,21,57,45,True
+Singapore,SGP,31,76,43,False
+Japan,JPN,24,44,39,True
+South Korea,KOR,27,60,39,True
+South Africa,ZAF,39,72,36,False
+India,IND,63,83,28,False
+Thailand,THA,46,80,25,False
+Malaysia,MYS,37,82,20,False
+Indonesia,IDN,39,85,14,False
+Israel,ISR,27,63,42,False
+Türkiye,TUR,42,62,66,False
+France,FRA,19,42,39,True
+Germany,DEU,15,38,38,True
+Hungary,HUN,30,49,35,True
+Ireland,IRL,30,53,42,False
+Italy,ITA,34,56,51,True
+Netherlands,NLD,16,47,30,True
+Poland,POL,25,52,22,True
+Spain,ESP,38,58,39,True
+Sweden,SWE,21,44,34,True
+United Kingdom,GBR,20,45,46,True
+Argentina,ARG,34,64,41,True
+Belgium,BEL,22,48,43,True
+Brazil,BRA,32,59,45,False
+Canada,CAN,15,46,58,True
+Chile,CHL,36,65,41,False
+Colombia,COL,39,70,36,False
+Mexico,MEX,37,70,41,False
+Peru,PER,43,74,46,False
+United States,USA,23,49,50,True

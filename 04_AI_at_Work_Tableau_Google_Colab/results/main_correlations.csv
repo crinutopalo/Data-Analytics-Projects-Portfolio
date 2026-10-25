@@ -1,0 +1,19 @@
+adoption,outcome,sample,n,rho,p_raw,family,p_holm,significant_after_holm
+Claude per person,Time saved (Ipsos),All 31 countries,31,-0.5843671472737859,0.0005566974033532807,9 adoption/outcome tests within sample,0.003340184420119684,True
+Claude per person,Daily stress (Gallup),All 31 countries,31,0.43206464070565054,0.015212835572662599,9 adoption/outcome tests within sample,0.045638506717987797,True
+Claude per person,Output per hour (ILO),All 31 countries,31,0.8043149551914665,4.992648461464809e-08,9 adoption/outcome tests within sample,3.994118769171847e-07,True
+OpenAI use,Time saved (Ipsos),All 31 countries,31,-0.5619201748027682,0.0010032083850160687,9 adoption/outcome tests within sample,0.005016041925080344,True
+OpenAI use,Daily stress (Gallup),All 31 countries,31,0.19636403706609004,0.28972236113313693,9 adoption/outcome tests within sample,0.3664159150168777,False
+OpenAI use,Output per hour (ILO),All 31 countries,31,0.7911290322580647,1.1729910242297864e-07,9 adoption/outcome tests within sample,8.210937169608505e-07,True
+Microsoft adoption,Time saved (Ipsos),All 31 countries,31,-0.5455829407184092,0.0015014034411220826,9 adoption/outcome tests within sample,0.00600561376448833,True
+Microsoft adoption,Daily stress (Gallup),All 31 countries,31,0.24545504633261256,0.18320795750843885,9 adoption/outcome tests within sample,0.3664159150168777,False
+Microsoft adoption,Output per hour (ILO),All 31 countries,31,0.8161290322580647,2.1954822455729405e-08,9 adoption/outcome tests within sample,1.9759340210156464e-07,True
+Claude per person,Time saved (Ipsos),General population only (17),17,-0.06998170246763905,0.789553477976044,9 adoption/outcome tests within sample,1.0,False
+Claude per person,Daily stress (Gallup),General population only (17),17,0.4404789882961897,0.07679705160891975,9 adoption/outcome tests within sample,0.614376412871358,False
+Claude per person,Output per hour (ILO),General population only (17),17,0.42892156862745107,0.08580101895154521,9 adoption/outcome tests within sample,0.614376412871358,False
+OpenAI use,Time saved (Ipsos),General population only (17),17,-0.24800533155198395,0.3371689818614016,9 adoption/outcome tests within sample,1.0,False
+OpenAI use,Daily stress (Gallup),General population only (17),17,-0.19494588277534447,0.45337667717921426,9 adoption/outcome tests within sample,1.0,False
+OpenAI use,Output per hour (ILO),General population only (17),17,0.536764705882353,0.02631190195230553,9 adoption/outcome tests within sample,0.2368071175707498,False
+Microsoft adoption,Time saved (Ipsos),General population only (17),17,-0.06138745830494652,0.8149478887937285,9 adoption/outcome tests within sample,1.0,False
+Microsoft adoption,Daily stress (Gallup),General population only (17),17,0.07896542087102561,0.763221065299805,9 adoption/outcome tests within sample,1.0,False
+Microsoft adoption,Output per hour (ILO),General population only (17),17,0.2622549019607843,0.3092086598982379,9 adoption/outcome tests within sample,1.0,False

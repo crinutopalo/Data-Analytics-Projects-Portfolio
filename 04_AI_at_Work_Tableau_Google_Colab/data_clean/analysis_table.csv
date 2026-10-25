@@ -1,0 +1,32 @@
+country,iso3,ipsos_trust_pct,ipsos_time_saved_pct,gallup_stress_2025,ipsos_representative,claude_usage_share_pct,claude_per_capita_index,openai_rank,openai_use_score,ms_adoption_pct,output_per_hour,output_year
+Australia,AUS,21,57,50,True,2.65,6.4,19,-19,39.5,71.81,2025
+New Zealand,NZL,21,57,45,True,0.39,4.84,40,-40,43.0,51.43,2025
+Singapore,SGP,31,76,43,False,0.62,5.81,1,-1,63.4,100.42,2025
+Japan,JPN,24,44,39,True,3.28,1.91,57,-57,22.5,52.71,2025
+South Korea,KOR,27,60,39,True,3.24,3.78,25,-25,37.1,47.93,2025
+South Africa,ZAF,39,72,36,False,0.47,0.46,106,-106,23.1,22.84,2025
+India,IND,63,83,28,False,7.12,0.3,109,-109,17.6,10.8,2025
+Thailand,THA,46,80,25,False,0.86,0.73,96,-96,12.4,17.89,2025
+Malaysia,MYS,37,82,20,False,0.51,0.87,59,-59,21.8,30.41,2025
+Indonesia,IDN,39,85,14,False,2.08,0.46,101,-101,14.1,15.46,2025
+Israel,ISR,27,63,42,False,0.43,3.05,12,-12,38.1,61.12,2025
+Türkiye,TUR,42,62,66,False,0.88,0.64,70,-70,17.4,40.91,2025
+France,FRA,19,42,39,True,3.95,3.97,21,-21,47.8,80.18,2025
+Germany,DEU,15,38,38,True,2.98,2.4,27,-27,31.1,80.52,2025
+Hungary,HUN,30,49,35,True,0.16,1.07,43,-43,32.2,45.29,2025
+Ireland,IRL,30,53,42,False,0.27,3.23,28,-28,48.4,164.65,2025
+Italy,ITA,34,56,51,True,1.5,1.7,79,-79,30.2,74.11,2025
+Netherlands,NLD,16,47,30,True,1.07,3.9,3,-3,42.1,92.3,2025
+Poland,POL,25,52,22,True,0.75,1.33,45,-45,31.0,48.84,2025
+Spain,ESP,38,58,39,True,2.05,2.69,26,-26,44.2,68.11,2025
+Sweden,SWE,21,44,34,True,0.46,2.98,20,-20,36.1,83.86,2025
+United Kingdom,GBR,20,45,46,True,3.47,3.35,41,-41,42.2,67.3,2025
+Argentina,ARG,34,64,41,True,1.05,1.48,58,-58,21.9,33.81,2025
+Belgium,BEL,22,48,43,True,0.68,3.8,22,-22,39.0,91.54,2025
+Brazil,BRA,32,59,45,False,3.33,0.96,68,-68,19.1,21.17,2025
+Canada,CAN,15,46,58,True,2.63,4.13,23,-23,37.3,69.76,2025
+Chile,CHL,36,65,41,False,0.59,1.84,47,-47,22.7,34.39,2025
+Colombia,COL,39,70,36,False,1.03,1.18,72,-72,24.5,18.31,2025
+Mexico,MEX,37,70,41,False,1.32,0.63,85,-85,20.1,22.71,2025
+Peru,PER,43,74,46,False,0.57,1.05,64,-64,16.4,15.33,2025
+United States,USA,23,49,50,True,20.16,3.87,51,-51,31.3,81.8,2025

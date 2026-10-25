@@ -1,0 +1,19 @@
+adoption,outcome,sample,n,rho,p,p_holm
+Claude per person,Time saved (Ipsos),All 31 countries,31,-0.5843671472737859,0.0005566974033532807,0.003340184420119684
+Claude per person,Daily stress (Gallup),All 31 countries,31,0.43206464070565054,0.015212835572662599,0.045638506717987797
+Claude per person,Output per hour (ILO),All 31 countries,31,0.8043149551914665,4.992648461464809e-08,3.994118769171847e-07
+OpenAI use,Time saved (Ipsos),All 31 countries,31,-0.5619201748027682,0.0010032083850160687,0.005016041925080344
+OpenAI use,Daily stress (Gallup),All 31 countries,31,0.19636403706609004,0.28972236113313693,0.3664159150168777
+OpenAI use,Output per hour (ILO),All 31 countries,31,0.7911290322580647,1.1729910242297864e-07,8.210937169608505e-07
+Microsoft adoption,Time saved (Ipsos),All 31 countries,31,-0.5455829407184092,0.0015014034411220826,0.00600561376448833
+Microsoft adoption,Daily stress (Gallup),All 31 countries,31,0.24545504633261256,0.18320795750843885,0.3664159150168777
+Microsoft adoption,Output per hour (ILO),All 31 countries,31,0.8161290322580647,2.1954822455729405e-08,1.9759340210156464e-07
+Claude per person,Time saved (Ipsos),General population only (17),17,-0.06998170246763905,0.789553477976044,1.0
+Claude per person,Daily stress (Gallup),General population only (17),17,0.4404789882961897,0.07679705160891975,0.614376412871358
+Claude per person,Output per hour (ILO),General population only (17),17,0.42892156862745107,0.08580101895154521,0.614376412871358
+OpenAI use,Time saved (Ipsos),General population only (17),17,-0.24800533155198395,0.3371689818614016,1.0
+OpenAI use,Daily stress (Gallup),General population only (17),17,-0.19494588277534447,0.45337667717921426,1.0
+OpenAI use,Output per hour (ILO),General population only (17),17,0.536764705882353,0.02631190195230553,0.2368071175707498
+Microsoft adoption,Time saved (Ipsos),General population only (17),17,-0.06138745830494652,0.8149478887937285,1.0
+Microsoft adoption,Daily stress (Gallup),General population only (17),17,0.07896542087102561,0.763221065299805,1.0
+Microsoft adoption,Output per hour (ILO),General population only (17),17,0.2622549019607843,0.3092086598982379,1.0

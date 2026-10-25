@@ -1,0 +1,21 @@
+adoption,outcome,sample,n,rho,p_raw,family,p_holm,significant_after_holm
+Claude: work share,Trust AI without checking (Ipsos),All 31 countries,31,0.2884831392517258,0.11551694764043662,10 trust tests within sample,0.23103389528087323,False
+Claude: automation share,Trust AI without checking (Ipsos),All 31 countries,31,0.6871598015849679,1.9559724002161924e-05,10 trust tests within sample,9.779862001080962e-05,True
+Claude: autonomy,Trust AI without checking (Ipsos),All 31 countries,31,0.8125514230490526,2.8326835879945696e-08,10 trust tests within sample,2.2661468703956557e-07,True
+Claude: est. task time saved,Trust AI without checking (Ipsos),All 31 countries,31,0.8440503885314666,2.438449975041464e-09,10 trust tests within sample,2.1946049775373175e-08,True
+ChatGPT: work share,Trust AI without checking (Ipsos),All 31 countries,31,0.2586052493922049,0.16010721390207303,10 trust tests within sample,0.23103389528087323,False
+ChatGPT: doing share of work,Trust AI without checking (Ipsos),All 31 countries,31,0.5382676410971509,0.0017868145574008202,10 trust tests within sample,0.005360443672202461,True
+Claude per person,Trust AI without checking (Ipsos),All 31 countries,31,-0.7952761740688082,9.02634151531151e-08,10 trust tests within sample,6.318439060718057e-07,True
+OpenAI use,Trust AI without checking (Ipsos),All 31 countries,31,-0.7554261071238334,9.001151377018719e-07,10 trust tests within sample,5.400690826211231e-06,True
+Microsoft adoption,Trust AI without checking (Ipsos),All 31 countries,31,-0.6789144837673575,2.6850589156922205e-05,10 trust tests within sample,0.00010740235662768882,True
+Time saved (Ipsos),Trust AI without checking (Ipsos),All 31 countries,31,0.8554986871360055,8.721687681741541e-10,10 trust tests within sample,8.721687681741541e-09,True
+Claude: work share,Trust AI without checking (Ipsos),General population only (17),17,0.4661778355829113,0.05927383995884462,10 trust tests within sample,0.25249422982427716,False
+Claude: automation share,Trust AI without checking (Ipsos),General population only (17),17,0.4812330472624202,0.05049884596485543,10 trust tests within sample,0.25249422982427716,False
+Claude: autonomy,Trust AI without checking (Ipsos),General population only (17),17,0.5089807674854889,0.036923139968691523,10 trust tests within sample,0.22153883981214914,False
+Claude: est. task time saved,Trust AI without checking (Ipsos),General population only (17),17,0.6494509160627365,0.004781169195016381,10 trust tests within sample,0.043030522755147425,True
+ChatGPT: work share,Trust AI without checking (Ipsos),General population only (17),17,-0.18696314250290902,0.47243297111937543,10 trust tests within sample,0.9448659422387509,False
+ChatGPT: doing share of work,Trust AI without checking (Ipsos),General population only (17),17,0.09729093550887871,0.7102880974982289,10 trust tests within sample,0.9448659422387509,False
+Claude per person,Trust AI without checking (Ipsos),General population only (17),17,-0.6125502958318992,0.008947294990032847,10 trust tests within sample,0.07157835992026278,False
+OpenAI use,Trust AI without checking (Ipsos),General population only (17),17,-0.5830297996472293,0.014032711957594347,10 trust tests within sample,0.09822898370316044,False
+Microsoft adoption,Trust AI without checking (Ipsos),General population only (17),17,-0.38007638837762425,0.1323565247334691,10 trust tests within sample,0.3970695742004073,False
+Time saved (Ipsos),Trust AI without checking (Ipsos),General population only (17),17,0.6999395814444952,0.0017588358210038043,10 trust tests within sample,0.01758835821003804,True
