@@ -12,5 +12,6 @@ SELECT
 FROM `olist.orders_dataset` AS o
 JOIN `olist.order_reviews` AS r ON o.order_id = r.order_id
 WHERE o.order_status = 'delivered'
+  AND o.order_delivered_customer_date IS NOT NULL
 GROUP BY delivery_time
 ORDER BY delivery_time
