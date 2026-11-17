@@ -70,10 +70,11 @@ These are associations between countries or groups, not proof of cause and effec
 
 ## How I work
 
-- **Start with a question:** every project begins with a business or research question, not with a chart.
-- **Look at the raw data first:** check sizes, missing values and odd records before analysing.
-- **Validate:** compare results with real-world benchmarks, not just internal consistency.
-- **Be honest about limits:** small samples, missing data and correlation vs. causation are stated in each README.
+I always start with a question, not a chart. Before analysing anything, I take time to look at the raw data: how big it is, what's missing, and what looks strange.
+
+When I get a result, I check it against real-world figures. Numbers that add up aren't always numbers that make sense.
+
+I also try to be honest about what the data can't tell. Small samples, missing values and the difference between correlation and causation are written down in every project.
 
 ## AI assistance
 
