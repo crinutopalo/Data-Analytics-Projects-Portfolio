@@ -76,9 +76,12 @@ When I get a result, I check it against real-world figures. Numbers that add up 
 
 I also try to be honest about what the data can't tell. Small samples, missing values and the difference between correlation and causation are written down in every project.
 
+
 ## AI assistance
 
-I used AI assistants (Claude, ChatGPT and Copilot) as a learning and support tool: to explain concepts, help debug code, troubleshoot Tableau and review my writing. I made the analytical decisions, ran the analyses, and checked the results against the data and the original sources. I can explain each step of every project.
+I was a great study partner during these projects. I used Claude, ChatGPT and Copilot to explain new concepts, check my code and ideas, solve Tableau problems and improve my writing. Having someone to double-check with at any time was really helpful.
+
+Still, I stayed curious and open to new solutions and new ways of looking at the data, while the final choices and checks were always mine. I verified the results against the original data, and if you ask me about any of these projects, I'll happily walk you through how I did it.
 
 ---
 
